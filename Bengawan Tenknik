@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BENGAWAN TEKNIK – Servis TV LCD & LED</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="font-sans bg-gray-100 text-gray-800 leading-relaxed">
+
+    <header class="bg-blue-700 text-white py-6 shadow-md">
+        <div class="container mx-auto px-4 text-center">
+            <h1 class="text-3xl md:text-4xl font-bold mb-2">BENGAWAN TEKNIK</h1>
+            <p class="text-xl md:text-2xl">🛠️ SERVIS TV LCD & LED</p>
+        </div>
+    </header>
+
+    <main class="container mx-auto mt-8 px-4">
+
+        <section class="bg-white shadow-lg rounded-lg p-8 mb-10">
+            <h2 class="text-2xl md:text-3xl font-semibold text-center text-blue-700 mb-6">Halo, Selamat Datang!</h2>
+            <div class="flex flex-col md:flex-row items-center md:space-x-8">
+                 <div class="md:w-1/2 mb-6 md:mb-0">
+                     <img src="https://picsum.photos/seed/tvservice/600/400" alt="TV repair service illustration" class="rounded-md shadow-md w-full h-auto">
+                 </div>
+                 <div class="md:w-1/2 text-lg">
+                    <p class="mb-4">Kami melayani servis TV LCD dan LED dengan harga bersahabat dan hasil yang rapi. Dikerjakan langsung oleh teknisi lokal yang sudah berpengalaman dan paham betul seluk-beluk kerusakan TV berbagai merk.</p>
+                    <p class="font-medium">Kami siap membantu TV Anda kembali normal!</p>
+                 </div>
+            </div>
+        </section>
+
+        <section class="bg-white shadow-lg rounded-lg p-8 mb-10">
+            <h2 class="text-2xl md:text-3xl font-semibold text-center text-blue-700 mb-6">Layanan Kami</h2>
+            <ul class="list-disc list-inside text-lg space-y-3">
+                <li>Servis TV LCD/LED mati total, gambar hilang, suara nggak keluar, dan lain-lain</li>
+                <li>Ganti backlight, power supply, T-Con, dan komponen lainnya</li>
+                <li>Terima panggilan servis sekitar Tasikmadu dan Karanganyar</li>
+                <li>Bisa antar jemput TV (syarat & ketentuan berlaku)</li>
+            </ul>
+        </section>
+
+        <section class="bg-white shadow-lg rounded-lg p-8 mb-10">
+            <h2 class="text-2xl md:text-3xl font-semibold text-center text-blue-700 mb-6">Mengapa Memilih Kami?</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center text-lg">
+                <div class="p-4 border rounded-md shadow-sm bg-gray-50">
+                    <p class="text-xl font-bold text-green-600 mb-2">✅ Cepat – Ramah – Terpercaya</p>
+                    <p>Pelayanan kami didasari prinsip kecepatan, keramahan, dan kepercayaan pelanggan.</p>
+                </div>
+                <div class="p-4 border rounded-md shadow-sm bg-gray-50">
+                     <p class="text-xl font-bold text-green-600 mb-2">✅ Estimasi Harga Jelas</p>
+                     <p>Estimasi biaya perbaikan akan kami sampaikan dengan jelas di awal.</p>
+                </div>
+                <div class="p-4 border rounded-md shadow-sm bg-gray-50">
+                     <p class="text-xl font-bold text-green-600 mb-2">✅ Garansi Servis</p>
+                     <p>Kami memberikan garansi untuk beberapa jenis perbaikan tertentu.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="bg-blue-600 text-white shadow-lg rounded-lg p-8 mb-10 text-center">
+             <h2 class="text-2xl md:text-3xl font-semibold mb-6">Hubungi Kami</h2>
+             <p class="text-xl mb-4">Jangan ragu hubungi kami kalau TV-nya mulai rewel.</p>
+             <p class="text-2xl font-bold mb-4">📱 HP/WA: <a href="tel:+6285601163335" class="underline hover:text-blue-200">0856-0116-3335</a></p>
+             <p class="text-lg mb-4">InsyaAllah kami bantu beresin secepat dan sebaik mungkin 🙏</p>
+             <p class="text-lg italic">📍 Alamat: Dukuh RT 6 RW 4, Desa Kaling, Kec. Tasikmadu, Kab. Karanganyar</p>
+        </section>
+
+    </main>
+
+    <footer class="bg-gray-800 text-gray-300 py-6 mt-8">
+        <div class="container mx-auto px-4 text-center text-sm">
+            <p>&copy; 2023 BENGAWAN TEKNIK. All rights reserved.</p>
+            <p class="mt-2">Servis TV LCD & LED di Karanganyar</p>
+        </div>
+    </footer>
+
+</body>
+</html>
